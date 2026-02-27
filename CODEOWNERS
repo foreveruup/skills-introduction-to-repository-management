@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @foreveruup
+/src/backend/database.py      @foreveruup
+/src/backend/routers/auth.py  @foreveruup
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @foreveruup
